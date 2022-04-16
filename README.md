@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sumitpandeysum
 - 👀 I’m interested in ...softwair development
-- 🌱 I’m currently learning ...java
-- 💞️ I’m looking to collaborate on ...android development
+- 🌱 I’m currently learning ...javascript
+- i knows HTML,CSS.
+- 💞️ I’m looking to collaborate on ...website development
 - 📫 How to reach me ...
 
 <!---
